@@ -1,2 +1,2 @@
 # carlog-pi
-Logging car's sensor data via OBD2 and GPS position through a Raspberry Pi. The collected data will be used for further analysis.
+Collect the car's OBD2 sensor data and GPS position data into InfluxDB on a Raspberry Pi. The collected data will be used for further analysis.
